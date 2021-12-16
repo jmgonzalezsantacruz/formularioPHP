@@ -1,0 +1,10 @@
+.preguntas,.cuerpo,.enunciado,.login {
+    background-color: #9fd5d1;
+    border: 1px solid brown;
+    padding: 10px;
+    margin: 10px;
+    font-family: Arial, Verdana, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
